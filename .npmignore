@@ -1,7 +1,6 @@
-node_modules
-tests
-jest.config.js
-makefile
 .git
-.gitignore
+node_modules
 src
+.gitignore
+jest.config.js
+tsconfig.json
