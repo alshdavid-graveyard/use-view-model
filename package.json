@@ -14,7 +14,8 @@
   "scripts": {
     "start": "npx tsc",
     "build": "npx tsc",
-    "test": "npx jest"
+    "test": "npx jest",
+    "clean": "rm -r -f index.js index.d.ts observable preact react reactivity"
   },
   "homepage": "https://github.com/alshdavid/use-view-model#readme",
   "devDependencies": {

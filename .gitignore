@@ -1,4 +1,7 @@
-*.js
-*.d.ts
+index.js
+index.d.ts
+observable
+preact
+react
+reactivity
 node_modules
-!jest.config.js
