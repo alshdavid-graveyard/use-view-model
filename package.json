@@ -1,0 +1,33 @@
+{
+  "name": "use-view-model",
+  "version": "1.0.0",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alshdavid/use-view-model"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alshdavid/use-view-model/issues"
+  },
+  "scripts": {
+    "start": "npx tsc",
+    "build": "npx tsc",
+    "test": "npx jest"
+  },
+  "homepage": "https://github.com/alshdavid/use-view-model#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.5",
+    "@types/react": "^16.9.43",
+    "jest": "^26.1.0",
+    "preact": "^10.4.6",
+    "react": "^16.13.1",
+    "ts-jest": "^26.1.3",
+    "typescript": "^3.9.7"
+  },
+  "optionalDependencies": {
+    "preact": "^10.4.6",
+    "react": "^16.13.1"
+  }
+}
